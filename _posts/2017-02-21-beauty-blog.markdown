@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2017-02-21
-img: static.png
+img: article.png
 alt: image-alt
 project-date: August 2016
 client: Currently Kira
